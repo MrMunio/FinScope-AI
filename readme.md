@@ -2,7 +2,7 @@
 
 An interactive chatbot that assists financial investors in conducting comprehensive company background research and financial statement analysis. It leverages powerful LLM agents and web search to deliver detailed corporate insights.
 
----
+
 
 ## 🚀 Features
 
@@ -11,7 +11,7 @@ An interactive chatbot that assists financial investors in conducting comprehens
 - Conversational interface for seamless interaction
 - Terminal and web UI options
 
----
+
 
 ## 🔧 Setup Instructions
 
@@ -26,15 +26,13 @@ export BRAVE_API_KEY=your_brave_search_api_key
 
 📝 Use a `.env` file or export them in your shell session.
 
----
-
 ### 2. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
----
+
 
 ## 🧑‍💻 Usage
 
@@ -50,7 +48,7 @@ chainlit run app.py
 python terminal_bot.py
 ```
 
----
+
 
 ## 📈 Use Case
 
@@ -60,4 +58,3 @@ python terminal_bot.py
 * Perform financial statement analysis
 * Gather background info from trusted online sources
 
----
