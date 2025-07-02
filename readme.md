@@ -22,7 +22,7 @@ Ensure the following environment variables are set:
 ```bash
 export OPENAI_API_KEY=your_openai_api_key
 export BRAVE_API_KEY=your_brave_search_api_key
-````
+```
 
 📝 Use a `.env` file or export them in your shell session.
 
