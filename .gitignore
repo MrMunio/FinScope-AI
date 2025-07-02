@@ -48,3 +48,13 @@ Thumbs.db
 *.mov
 *.wmv
 
+.langgraph_api/
+.files/
+.chainlit/
+__pycache__/
+code_bkp/
+logs/
+agent_scratch_pad_1.txt
+agent_scratch_pad_2.txt
+Instructions_to_run.txt
+chainlit.md
