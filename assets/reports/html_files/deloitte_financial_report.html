@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deloitte - Annual Financial Report FY 2024</title>
+    <style>
+        body {
+            font-family: 'Times New Roman', serif;
+            line-height: 1.4;
+            margin: 0;
+            padding: 20px;
+            background: white;
+            color: #000;
+        }
+        .header {
+            text-align: center;
+            border-bottom: 3px solid #86BC25;
+            padding-bottom: 20px;
+            margin-bottom: 30px;
+        }
+        .company-logo {
+            font-size: 28px;
+            font-weight: bold;
+            color: #86BC25;
+            margin-bottom: 10px;
+        }
+        .report-title {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        .report-period {
+            font-size: 16px;
+            color: #666;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        .section-title {
+            font-size: 18px;
+            font-weight: bold;
+            color: #86BC25;
+            border-bottom: 2px solid #86BC25;
+            padding-bottom: 5px;
+            margin-bottom: 15px;
+        }
+        .financial-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+            font-size: 12px;
+        }
+        .financial-table th {
+            background-color: #86BC25;
+            color: white;
+            padding: 10px;
+            text-align: left;
+            font-weight: bold;
+        }
+        .financial-table td {
+            padding: 8px 10px;
+            border-bottom: 1px solid #ddd;
+        }
+        .financial-table tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        .currency {
+            text-align: right;
+        }
+        .total-row {
+            font-weight: bold;
+            background-color: #f0f8ff !important;
+        }
+        .note {
+            font-size: 10px;
+            color: #666;
+            font-style: italic;
+            margin-top: 10px;
+        }
+        .key-metrics {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            margin-top: 20px;
+        }
+        .metric-box {
+            border: 1px solid #86BC25;
+            padding: 15px;
+            border-radius: 5px;
+        }
+        .metric-title {
+            font-weight: bold;
+            color: #86BC25;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="company-logo">Deloitte</div>
+        <div class="report-title">Annual Financial Report</div>
+        <div class="report-period">For the Fiscal Year Ended May 31, 2024</div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Consolidated Income Statement</div>
+        <table class="financial-table">
+            <thead>
+                <tr>
+                    <th>In millions of USD</th>
+                    <th class="currency">FY 2024</th>
+                    <th class="currency">FY 2023</th>
+                    <th class="currency">FY 2022</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>Revenue / Sales</strong></td>
+                    <td class="currency">64,900</td>
+                    <td class="currency">59,300</td>
+                    <td class="currency">56,200</td>
+                </tr>
+                <tr>
+                    <td>Cost of Goods Sold (COGS)</td>
+                    <td class="currency">38,940</td>
+                    <td class="currency">35,580</td>
+                    <td class="currency">33,720</td>
+                </tr>
+                <tr class="total-row">
+                    <td><strong>Gross Profit</strong></td>
+                    <td class="currency">25,960</td>
+                    <td class="currency">23,720</td>
+                    <td class="currency">22,480</td>
+                </tr>
+                <tr>
+                    <td>Operating Expenses:</td>
+                    <td class="currency"></td>
+                    <td class="currency"></td>
+                    <td class="currency"></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;&nbsp;Selling, General & Administrative</td>
+                    <td class="currency">15,575</td>
+                    <td class="currency">14,232</td>
+                    <td class="currency">13,488</td>
+                </tr>
+                <tr>
+                    <td>&nbsp;&nbsp;Research & Development</td>
+                    <td class="currency">1,947</td>
+                    <td class="currency">1,779</td>
+                    <td class="currency">1,686</td>
+                </tr>
+                <tr>
+                    <td>&nbsp;&nbsp;Other Operating Expenses</td>
+                    <td class="currency">2,595</td>
+                    <td class="currency">2,372</td>
+                    <td class="currency">2,248</td>
+                </tr>
+                <tr>
+                    <td>Total Operating Expenses</td>
+                    <td class="currency">20,117</td>
+                    <td class="currency">18,383</td>
+                    <td class="currency">17,422</td>
+                </tr>
+                <tr class="total-row">
+                    <td><strong>Operating Income</strong></td>
+                    <td class="currency">5,843</td>
+                    <td class="currency">5,337</td>
+                    <td class="currency">5,058</td>
+                </tr>
+                <tr>
+                    <td>Interest Income</td>
+                    <td class="currency">389</td>
+                    <td class="currency">297</td>
+                    <td class="currency">225</td>
+                </tr>
+                <tr>
+                    <td>Interest Expense</td>
+                    <td class="currency">(324)</td>
+                    <td class="currency">(296)</td>
+                    <td class="currency">(281)</td>
+                </tr>
+                <tr>
+                    <td>Other Income (Expense)</td>
+                    <td class="currency">129</td>
+                    <td class="currency">85</td>
+                    <td class="currency">67</td>
+                </tr>
+                <tr>
+                    <td>Income Before Taxes</td>
+                    <td class="currency">6,037</td>
+                    <td class="currency">5,423</td>
+                    <td class="currency">5,069</td>
+                </tr>
+                <tr>
+                    <td>Income Tax Expense</td>
+                    <td class="currency">1,449</td>
+                    <td class="currency">1,302</td>
+                    <td class="currency">1,217</td>
+                </tr>
+                <tr class="total-row">
+                    <td><strong>Net Income</strong></td>
+                    <td class="currency">4,588</td>
+                    <td class="currency">4,121</td>
+                    <td class="currency">3,852</td>
+                </tr>
+                <tr class="total-row">
+                    <td><strong>EBITDA</strong></td>
+                    <td class="currency">7,789</td>
+                    <td class="currency">7,115</td>
+                    <td class="currency">6,748</td>
+                </tr>
+                <tr>
+                    <td><strong>Earnings Per Share (EPS)</strong></td>
+                    <td class="currency">$2.85</td>
+                    <td class="currency">$2.56</td>
+                    <td class="currency">$2.39</td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="note">Note: EBITDA calculated as Operating Income plus Depreciation ($1,297M) and Amortization ($649M)</div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Consolidated Balance Sheet</div>
+        <table class="financial-table">
+            <thead>
+                <tr>
+                    <th>In millions of USD</th>
+                    <th class="currency">May 31, 2024</th>
+                    <th class="currency">May 31, 2023</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td colspan="3"><strong>ASSETS</strong></td>
+                </tr>
+                <tr>
+                    <td>Current Assets:</td>
+                    <td class="currency"></td>
+                    <td class="currency"></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;&nbsp;Cash and Cash Equivalents</td>
+                    <td class="currency">8,945</td>
+                    <td class="currency">7,823</td>
+                </tr>
+                <tr>
+                    <td>&nbsp;&nbsp;Accounts Receivable</td>
+                    <td class="currency">12,356</td>
+                    <td class="currency">11,287</td>
+                </tr>
+                <tr>
+                    <td>&nbsp;&nbsp;Inventory</td>
+                    <td class="currency">1,298</td>
+                    <td class="currency">1,186</td>
+                </tr>
+                <tr>
+                    <td>&nbsp;&nbsp;Other Current Assets</td>
+                    <td class="currency">3,247</td>
+                    <td class="currency">2,965</td>
+                </tr>
+                <tr>
+                    <td>Total Current Assets</td>
+                    <td class="currency">25,846</td>
+                    <td class="currency">23,261</td>
+                </tr>
+                <tr>
+                    <td>Property, Plant & Equipment</td>
+                    <td class="currency">9,734</td>
+                    <td class="currency">8,956</td>
+                </tr>
+                <tr>
+                    <td>Intangible Assets</td>
+                    <td class="currency">4,521</td>
+                    <td class="currency">4,123</td>
+                </tr>
+                <tr>
+                    <td>Other Non-Current Assets</td>
+                    <td class="currency">2,897</td>
+                    <td class="currency">2,634</td>
+                </tr>
+                <tr class="total-row">
+                    <td><strong>Total Assets</strong></td>
+                    <td class="currency">42,998</td>
+                    <td class="currency">38,974</td>
+                </tr>
+                <tr>
+                    <td colspan="3"><strong>LIABILITIES & EQUITY</strong></td>
+                </tr>
+                <tr>
+                    <td>Current Liabilities:</td>
+                    <td class="currency"></td>
+                    <td class="currency"></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;&nbsp;Accounts Payable</td>
+                    <td class="currency">4,523</td>
+                    <td class="currency">4,127</td>
+                </tr>
+                <tr>
+                    <td>&nbsp;&nbsp;Short-term Debt</td>
+                    <td class="currency">2,159</td>
+                    <td class="currency">1,948</td>
+                </tr>
+                <tr>
+                    <td>&nbsp;&nbsp;Other Current Liabilities</td>
+                    <td class="currency">6,789</td>
+                    <td class="currency">6,234</td>
+                </tr>
+                <tr>
+                    <td>Total Current Liabilities</td>
+                    <td class="currency">13,471</td>
+                    <td class="currency">12,309</td>
+                </tr>
+                <tr>
+                    <td>Long-term Debt</td>
+                    <td class="currency">8,945</td>
+                    <td class="currency">8,127</td>
+                </tr>
+                <tr>
+                    <td>Other Long-term Liabilities</td>
+                    <td class="currency">3,456</td>
+                    <td class="currency">3,187</td>
+                </tr>
+                <tr class="total-row">
+                    <td><strong>Total Liabilities</strong></td>
+                    <td class="currency">25,872</td>
+                    <td class="currency">23,623</td>
+                </tr>
+                <tr class="total-row">
+                    <td><strong>Shareholders' Equity</strong></td>
+                    <td class="currency">17,126</td>
+                    <td class="currency">15,351</td>
+                </tr>
+                <tr class="total-row">
+                    <td><strong>Total Liabilities & Equity</strong></td>
+                    <td class="currency">42,998</td>
+                    <td class="currency">38,974</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Consolidated Cash Flow Statement</div>
+        <table class="financial-table">
+            <thead>
+                <tr>
+                    <th>In millions of USD</th>
+                    <th class="currency">FY 2024</th>
+                    <th class="currency">FY 2023</th>
+                    <th class="currency">FY 2022</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td colspan="4"><strong>OPERATING ACTIVITIES</strong></td>
+                </tr>
+                <tr>
+                    <td>Net Income</td>
+                    <td class="currency">4,588</td>
+                    <td class="currency">4,121</td>
+                    <td class="currency">3,852</td>
+                </tr>
+                <tr>
+                    <td>Depreciation & Amortization</td>
+                    <td class="currency">1,946</td>
+                    <td class="currency">1,778</td>
+                    <td class="currency">1,690</td>
+                </tr>
+                <tr>
+                    <td>Changes in Working Capital</td>
+                    <td class="currency">(649)</td>
+                    <td class="currency">(593)</td>
+                    <td class="currency">(562)</td>
+                </tr>
+                <tr>
+                    <td>Other Operating Activities</td>
+                    <td class="currency">324</td>
+                    <td class="currency">296</td>
+                    <td class="currency">281</td>
+                </tr>
+                <tr class="total-row">
+                    <td><strong>Operating Cash Flow</strong></td>
+                    <td class="currency">6,209</td>
+                    <td class="currency">5,602</td>
+                    <td class="currency">5,261</td>
+                </tr>
+                <tr>
+                    <td colspan="4"><strong>INVESTING ACTIVITIES</strong></td>
+                </tr>
+                <tr>
+                    <td>Capital Expenditures</td>
+                    <td class="currency">(1,947)</td>
+                    <td class="currency">(1,779)</td>
+                    <td class="currency">(1,686)</td>
+                </tr>
+                <tr>
+                    <td>Acquisitions</td>
+                    <td class="currency">(1,298)</td>
+                    <td class="currency">(1,186)</td>
+                    <td class="currency">(1,124)</td>
+                </tr>
+                <tr>
+                    <td>Other Investing Activities</td>
+                    <td class="currency">(324)</td>
+                    <td class="currency">(296)</td>
+                    <td class="currency">(281)</td>
+                </tr>
+                <tr class="total-row">
+                    <td><strong>Investing Cash Flow</strong></td>
+                    <td class="currency">(3,569)</td>
+                    <td class="currency">(3,261)</td>
+                    <td class="currency">(3,091)</td>
+                </tr>
+                <tr>
+                    <td colspan="4"><strong>FINANCING ACTIVITIES</strong></td>
+                </tr>
+                <tr>
+                    <td>Debt Proceeds</td>
+                    <td class="currency">1,298</td>
+                    <td class="currency">1,186</td>
+                    <td class="currency">1,124</td>
+                </tr>
+                <tr>
+                    <td>Debt Repayments</td>
+                    <td class="currency">(649)</td>
+                    <td class="currency">(593)</td>
+                    <td class="currency">(562)</td>
+                </tr>
+                <tr>
+                    <td>Dividends Paid</td>
+                    <td class="currency">(1,622)</td>
+                    <td class="currency">(1,483)</td>
+                    <td class="currency">(1,408)</td>
+                </tr>
+                <tr>
+                    <td>Other Financing Activities</td>
+                    <td class="currency">(545)</td>
+                    <td class="currency">(498)</td>
+                    <td class="currency">(472)</td>
+                </tr>
+                <tr class="total-row">
+                    <td><strong>Financing Cash Flow</strong></td>
+                    <td class="currency">(1,518)</td>
+                    <td class="currency">(1,388)</td>
+                    <td class="currency">(1,318)</td>
+                </tr>
+                <tr class="total-row">
+                    <td><strong>Net Change in Cash</strong></td>
+                    <td class="currency">1,122</td>
+                    <td class="currency">953</td>
+                    <td class="currency">852</td>
+                </tr>
+                <tr class="total-row">
+                    <td><strong>Free Cash Flow</strong></td>
+                    <td class="currency">4,262</td>
+                    <td class="currency">3,823</td>
+                    <td class="currency">3,575</td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="note">Note: Free Cash Flow = Operating Cash Flow - Capital Expenditures</div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Key Financial Ratios</div>
+        <div class="key-metrics">
+            <div class="metric-box">
+                <div class="metric-title">Liquidity Ratios</div>
+                <table class="financial-table">
+                    <tr><td>Current Ratio</td><td class="currency">1.92</td></tr>
+                    <tr><td>Quick Ratio</td><td class="currency">1.82</td></tr>
+                </table>
+            </div>
+            <div class="metric-box">
+                <div class="metric-title">Leverage Ratios</div>
+                <table class="financial-table">
+                    <tr><td>Debt-to-Equity Ratio</td><td class="currency">0.65</td></tr>
+                    <tr><td>Interest Coverage</td><td class="currency">18.0x</td></tr>
+                </table>
+            </div>
+            <div class="metric-box">
+                <div class="metric-title">Profitability Ratios</div>
+                <table class="financial-table">
+                    <tr><td>Gross Margin</td><td class="currency">40.0%</td></tr>
+                    <tr><td>Net Margin</td><td class="currency">7.1%</td></tr>
+                    <tr><td>ROE</td><td class="currency">26.8%</td></tr>
+                    <tr><td>ROA</td><td class="currency">10.7%</td></tr>
+                </table>
+            </div>
+            <div class="metric-box">
+                <div class="metric-title">Efficiency Ratios</div>
+                <table class="financial-table">
+                    <tr><td>Asset Turnover</td><td class="currency">1.51x</td></tr>
+                    <tr><td>Revenue Growth</td><td class="currency">9.4%</td></tr>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Management Discussion & Analysis</div>
+        <p><strong>Fiscal Year 2024 Performance Overview:</strong></p>
+        <p>Deloitte delivered strong financial performance in FY 2024, with revenue growth of 9.4% to $64.9 billion, driven by robust demand across our Audit & Assurance, Consulting, Tax, and Risk Advisory services. Our global workforce expansion and strategic technology investments contributed to improved operational efficiency and client satisfaction.</p>
+        
+        <p><strong>Key Financial Highlights:</strong></p>
+        <p>Net income increased to $4.6 billion, representing a 11.3% improvement over the prior year. EBITDA margin remained strong at 12.0%, reflecting our continued focus on operational excellence and cost management. Our balance sheet remains robust with total assets of $43.0 billion and shareholders' equity of $17.1 billion.</p>
+        
+        <p><strong>Cash Flow and Capital Allocation:</strong></p>
+        <p>Operating cash flow of $6.2 billion and free cash flow of $4.3 billion provide strong financial flexibility for continued investments in talent, technology, and strategic acquisitions. During FY 2024, we returned $1.6 billion to shareholders through dividends while maintaining disciplined capital allocation.</p>
+    </div>
+
+    <div class="note" style="text-align: center; margin-top: 30px;">
+        This is a mockup financial report created for testing purposes. Figures are illustrative and not actual Deloitte financial data.
+    </div>
+</body>
+</html>

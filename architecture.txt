@@ -1,0 +1,34 @@
+sub agents architetur:
+
+agent_1(react agent)  or company_profiler_agent
+	tool:URL_scrapper
+		takes list of URLs and returns results as string
+	tool:web_search
+		takes list of queries and returns URls
+	tool:think_tool
+		A simple no functional tool to encourage agent to think and give some reasoning space before it takes any decision.
+
+
+agent_2(react agent) or financie_analyzer_agent
+	tool:Documents_retriver
+		returns finance docs given company name
+	tool:analyze_financials
+		returns various financial analytics given various metrics found from documents.
+	tool:think_tool
+		A simple no functional tool to encourage agent to think and give some reasoning space before it takes any decision.
+
+-----------------------------------------
+design 1:
+
+Master Agent (react agent) 
+    agent_1_as_tool(react agent)
+    agent_2_as_tool(react agent)
+design 2:  Final Implementation
+
+Master Agent (react agent) (collect user expections and his research topics then it triggers the workflow which generates report and saves as file. it doesnt respond to user with whole report but just the status mesage)
+    tool:generate_report - args: company_name, research_queries
+        invokes agent_1 ->promt: company_name,research_queries --> profiling_doc
+        invokes agent_2 ->promt: company_name 	-->finance_doc 
+        concats profiling_doc + finance_doc -> save it as text file
+	returns file_location, file_content to Master Agent
+

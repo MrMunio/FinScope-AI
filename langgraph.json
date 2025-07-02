@@ -1,0 +1,10 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "Corporate Researcher(react)": "./terminal_bot.py:corporate_researcher_v2",
+    "Company Profiler": "./terminal_bot.py:company_profiler_agent",
+    "Finance Analyzer": "./terminal_bot.py:finance_analyzer_agent",
+    "Corporate Researcher(supervisor)":"./terminal_bot.py:corporate_researcher_supervisor"
+  },
+  "env": ".env"
+}
