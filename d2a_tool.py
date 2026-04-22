@@ -382,7 +382,7 @@ if __name__ == "__main__":
         tools = Tools()
         
         # Set your Brave API key here
-        tools.valves.BRAVE_API_KEY = "BSA46mW0TGjBk-Leznx2atJlHWwD0xc"  # Replace with actual key
+        tools.valves.BRAVE_API_KEY = ""  # Replace with actual key
         tools.valves.SCRAPER_TIMEOUT = 20
         
         # Check if API key is set
