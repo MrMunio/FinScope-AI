@@ -1,0 +1,117 @@
+### Company Overview: AstraZeneca
+
+**Year Founded**: 1999 (through the merger of Astra AB and Zeneca Group).
+
+**Founders**: The company originated from the merger of Astra AB (a Swedish pharmaceutical company) and the Zeneca Group (a UK-based company).
+
+**Headquarters**: Cambridge, United Kingdom.
+
+### Current Leadership
+- **CEO**: Pascal Soriot (appointed in 2012).
+- **CFO and Executive Director**: Aradhana Sarin.
+- Other notable executive positions include heads of various therapeutic areas such as Oncology, Cardiovascular, and Immunology.
+
+### Industry and Offerings
+- **Industry**: Pharmaceuticals and Biotechnology.
+- **Therapeutic Areas**:
+  - **Oncology**: Key products include Tagrisso (osimertinib) and Imfinzi (durvalumab).
+  - **Cardiovascular, Renal & Metabolism**: Notable products include Farxiga.
+  - **Rare Diseases**: Treatments like Soliris (eculizumab) and Ultomiris (ravulizumab).
+- **Total Revenue**: Approximately $45.8 billion in 2023; aims for $80 billion by 2030.
+
+### Financial Performance
+- **Growth Strategy**: Targeting a mid-30s core operating margin by 2026.
+- **Investment Focus**: Plans to launch 20 new medicines by 2030, many expected to generate over $5 billion in peak annual revenue.
+
+### Market Position
+- **Market Capitalization**: Approximately $292.72 billion (as of January 2026).
+- **Competitive Landscape**: Competes with large players like Merck and Janssen Pharmaceuticals, focusing on oncology, cardiovascular, and rare diseases.
+
+### Research and Development (R&D)
+- **Investment Initiatives**: Heavy investment in AI to accelerate drug discovery, especially in oncology.
+- **Pipeline**: Plans to introduce several new therapies, particularly in antibody-drug conjugates, with ongoing trials expected to yield results in the near future.
+
+### Mergers and Acquisitions
+- **Recent Activity**: Acquired Modella AI to enhance R&D capabilities in oncology; actively pursuing other strategic acquisitions to bolster the product pipeline.
+- **M&A Strategy**: Focused on integrating innovative technologies through acquisitions to maintain competitive advantage.
+
+### Environmental, Social, and Governance (ESG)
+- **Sustainability Goals**: Aims for carbon-zero emissions by 2026.
+- **Social Responsibility**: Committed to improving global access to healthcare solutions and maintaining ethical business practices.
+
+### Global Expansion Strategies
+- **Manufacturing Investments**: Significant investments in new facilities in the U.S. and China to enhance production capabilities.
+- **Strategic Focus**: Aims to expand its presence in emerging markets through partnerships and investment.
+
+### Shareholder Returns
+- **Dividend Policy**: Has maintained annual dividends for 33 consecutive years as of late 2025.
+- **Performance**: Reported a total shareholder return of approximately 35.13% over the past year.
+
+### Conclusion
+AstraZeneca is well-positioned for sustained growth in the pharmaceutical sector, driven by a robust pipeline of innovative therapies and a commitment to integrating advanced technologies like AI into its operations. The company’s aggressive growth targets and strategic investments underline its focus on expanding its market share while ensuring environmental sustainability and social responsibility.
+
+### Sources
+1. [AstraZeneca Company Overview - Wikipedia](https://en.wikipedia.org/wiki/AstraZeneca)
+2. [AstraZeneca Business Strategy - BioSpace](https://www.biospace.com/astrazeneca-sets-80b-revenue-target-goal-of-20-new-drugs-by-2030/)
+3. [AstraZeneca Acquisition of Modella AI - Pharmaceutical Technology](https://www.pharmaceutical-technology.com/news/jpm26-astrazeneca-bids-to-accelerate-oncology-rd-with-modella-ai-acquisition/)
+4. [AstraZeneca Sustainability Goals - AstraZeneca Official Site](https://www.astrazeneca.com/sustainability.html)
+
+
+## Financial Analysis Report for TATA Consultancy Services (TCS)
+
+### Section 1: Extracted Financial Metrics
+Here are the key financial figures and metrics from the TATA Consultancy Services Annual Financial Report for the Fiscal Year Ended March 31, 2025:
+
+1. **Revenue / Sales**: $29,120 million
+   - This shows a year-over-year growth, reflecting strong demand for the company's digital services.
+
+2. **Cost of Goods Sold (COGS)**: $19,928 million
+   - This gives insight into the costs directly associated with the services provided by TCS.
+
+3. **Gross Profit**: $9,192 million
+   - Gross Profit Margin formula: \[(Gross Profit/Revenues) \times 100\]
+   - **Gross Margin**: 31.57%
+
+4. **Operating Expenses**: $3,202 million 
+   - Comprising selling, general & administrative expenses; research and development; and other operating expenses.
+
+5. **Operating Income**: $5,990 million
+   - **Operating Margin**: 20.57%
+
+6. **Net Income**: $4,932 million
+   - **Net Margin**: 16.94%
+
+7. **EBITDA**: $6,844 million
+   - **EBITDA Margin**: 23.5%
+
+8. **Current Assets**: $14,671 million
+   - Includes cash, accounts receivable, inventory, and other current assets.
+
+9. **Current Liabilities**: $5,242 million
+   - Represents obligations due within one year.
+
+10. **Inventory**: $146 million
+
+11. **Total Debt**: $1,346 million (calculating short-term and long-term debt)
+
+12. **Shareholders' Equity**: $14,962 million
+
+13. **Interest Expense**: $58 million
+
+### Section 2: Financial Health Analysis
+#### Profitability Analysis:
+- **Gross Margin**: 31.57% indicates a solid profit from sales after accounting for the COGS.
+- **Operating Margin**: 20.57% shows operational efficiency in managing costs relative to income.
+- **Net Margin**: 16.94% reflects how much profit the company retains per dollar of revenue after all expenses.
+- **EBITDA Margin**: 23.5% highlights strong earnings before interest, taxes, depreciation, and amortization as a percentage of total revenue.
+
+#### Liquidity Analysis:
+- **Current Ratio**: 2.8 indicates TCS has nearly three times the current assets to cover current liabilities, suggesting excellent liquidity.
+- **Quick Ratio**: 2.77 reinforces strong short-term liquidity, omitting inventory from the equation.
+
+#### Solvency Analysis:
+- **Debt-to-Equity Ratio**: 0.09 which suggests that TCS operates with very little leverage, displaying a solid equity base relative to debt.
+- **Interest Coverage Ratio**: 103.28 reveals TCS has ample earnings to cover interest obligations, ensuring they can comfortably meet interest expenses.
+
+### Section 3: Conclusion
+Overall, TCS demonstrates robust financial health marked by strong profitability, excellent liquidity, and low levels of leverage. The revenue growth and solid margins indicate a well-managed company capitalizing on strong market demand, particularly in digital transformation services. This financial strength positions TCS favorably for future growth and investment opportunities, confirming its stability and operational effectiveness within the ever-evolving technology sector.

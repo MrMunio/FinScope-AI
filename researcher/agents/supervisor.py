@@ -37,7 +37,7 @@ Responsibilities:
       - call generate_report_and_save tool, pass in company name and research queries to the tool. tool will return the composed research document save location along with complete generated report.
       - **respond the user with the save file location only**.
 3. After Report generation:
-  - after intimating the user that the report is generated and saved in a file. if user asks about any specific followup question refer the generated report and then answer his queries.
+  - after intimating the user that the report is generated and saved in a file. if user asks about any specific followup question refer to the generated report and answer his queries.
 """
 
 # version 1: using supervisor framefork

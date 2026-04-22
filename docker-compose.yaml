@@ -1,0 +1,15 @@
+version: "3.9"
+
+services:
+  corporate-researcher:
+    build: .
+    container_name: corporate-researcher
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./:/app
+    environment:
+      - PYTHONPATH=/app
+    restart: "no"
+    stdin_open: true
+    tty: true

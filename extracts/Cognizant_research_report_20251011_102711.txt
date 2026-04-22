@@ -1,0 +1,142 @@
+## Cognizant Company Profile
+
+### Overview
+Cognizant Technology Solutions Corporation, founded in 1994, is an American multinational information technology consulting and outsourcing company initially established as a subsidiary of Dun & Bradstreet in Chennai, India. The company is now headquartered in Teaneck, New Jersey, and is part of the NASDAQ-100 index, trading under the ticker CTSH.
+
+### Year Founded and Founders
+- **Year Founded**: 1994
+- **Founders**: Kumar Mahadeva and Srini Raju (initially as Dun & Bradstreet Satyam Software)
+
+### Headquarters
+- **Location**: Teaneck, New Jersey, USA
+
+### Leadership Team
+As of January 2023, the leadership team is spearheaded by:
+- **CEO**: Ravi Kumar S
+- **CFO**: Jatin Dalal
+- **President, Digital Business & Technology**: Rajesh Nambiar
+
+### Corporate Governance
+Cognizant promotes a robust corporate governance framework requiring all healthcare vendors and subcontractors to uphold strict ethical standards and comply with privacy regulations. The organization follows corporate governance guidelines designed to ensure transparency and accountability.
+
+### Financial Performance
+For 2025, Cognizant's revenue forecasts range between $20.5 billion and $21 billion, reflecting strong demand, particularly in AI-based services. The company recorded a revenue of $5.25 billion in the second quarter of 2025, marking an 8.1% year-over-year increase.
+
+### Market Position
+Cognizant operates across various industries, including:
+- Banking & Financial Services
+- Insurance
+- Healthcare
+- Manufacturing
+- Retail
+
+### Acquisitions
+Cognizant has a proactive mergers and acquisitions strategy, completing 56 acquisitions as of 2025. Noteworthy recent acquisitions include:
+- **Belcan** (approximately $1.3 billion in 2024) - a significant player in engineering services.
+- **Thirdera** and **Mobica** (also in 2024), focusing on cloud capabilities and software engineering.
+
+### Innovation and Technology Advancements
+Cognizant leverages innovations, especially in AI and cloud computing, to enhance client services. The company has initiated partnerships with major firms, including Microsoft, to advance generative AI capabilities.
+
+### Employee Satisfaction
+Cognizant has been recognized for its employee engagement efforts, scoring 3.7 out of 5 on AmbitionBox based on over 56,000 reviews. The company's outreach programs focus on employee involvement in community service, fostering a strong corporate culture.
+
+### ESG Metrics
+Cognizant places significant emphasis on Environmental, Social, and Governance (ESG) practices. The company has committed significant resources towards CSR initiatives, including a recent $250 million investment in various social programs.
+
+### Risk Management
+Cognizant employs a comprehensive risk management strategy that focuses on compliance with regulatory standards and ethical conduct. The company has faced scrutiny related to past compliance issues, such as violations of the Foreign Corrupt Practices Act but claims to have improved its governance frameworks significantly.
+
+### Strategic Partnerships
+Cognizant has forged numerous global partnerships, including strategic collaborations with firms like Pearson to bolster workforce development and with CrowdStrike for enhancing cybersecurity solutions.
+
+### Regulatory and Compliance Issues
+Cognizant has navigated various regulatory compliance challenges historically but has implemented robust measures to uphold ethical standards and protect sensitive data across its operations.
+
+### Conclusion
+Cognizant continues to be a leader in the IT services space, marked by significant growth, a strong focus on innovation, and a commitment to employee satisfaction and responsible business practices.
+
+### Sources
+1. [Wikipedia - Cognizant](https://en.wikipedia.org/wiki/Cognizant)
+2. [Cognizant Corporate Governance](https://www.cognizant.com/us/en/about-cognizant/corporate-governance)
+3. [Cognizant Financial Reports and Updates](https://investors.cognizant.com/news-and-events/news)
+4. [Cognizant Leadership Team](https://www.cognizant.com/us/en/about-cognizant/corporate-governance/leadership-team)
+5. [Cognizant CSR Initiatives](https://www.cognizant.com/us/en/about-cognizant/sustainability-corporate-citizenship)
+6. [Reuters on Cognizant Financial Outlook](https://www.reuters.com/business/cop/cognizant-lifts-2025-revenue-forecast-strong-ai-demand-2025-05-02)
+
+This summary encapsulates key facets of Cognizant, focusing on its leadership, operational strategies, financial performance, and corporate governance practices, along with additional insights relevant to its market positioning and future outlook.
+
+
+### Financial Analysis of Cognizant Technology Solutions Corporation
+
+#### Section 1: Extracted Financial Metrics
+
+The consolidated financial statement for Cognizant Technology Solutions Corporation for the year ended December 31, 2024, provides several key financial figures:
+
+1. **Revenue**: $19,425,000 (in thousands)
+   - Revenue shows an increase compared to previous years ($19,221,000 in 2023 and $18,485,000 in 2022), indicating a consistent growth trend in sales.
+
+2. **Cost of Revenues**: $11,936,000
+   - An increase in the cost of revenues is noted, reflecting increases in production or service delivery costs.
+
+3. **Gross Profit**: $7,489,000
+   - The gross profit margin remains healthy, mirroring the upward trend in revenue.
+
+4. **Operating Expenses**: $5,579,000
+   - These include selling, general, and administrative expenses which have also seen growth.
+
+5. **Operating Income**: $1,910,000
+   - A slight decrease from $2,006,000 in 2023 and an increase from $1,953,000 in 2022 indicates variations in operational efficiency or expense management.
+
+6. **Net Income**: $1,523,000
+   - Net income is down from $1,603,000 in 2023, manifesting slight fluctuations in profitability.
+
+7. **EBITDA**: $2,670,000
+   - While down from $2,758,000 in 2023, this still reflects a strong earnings position before interest and taxes.
+
+8. **Current Assets**: $8,891,000
+   - An increase from $8,518,000 in 2023, showing strengthened liquidity.
+
+9. **Current Liabilities**: $3,747,000
+   - A minor rise relative to previous years contributing to a defensive liquidity position.
+
+10. **Total Assets**: $16,960,000
+    - Increased total assets indicate ongoing investment and growth.
+
+11. **Total Liabilities**: $5,782,000
+    - A decrease in total liabilities compared to $5,902,000 in 2023 demonstrates improved debt management.
+
+12. **Shareholders' Equity**: $11,178,000
+    - Rising from $10,652,000 in 2023, which reflects positively on the company’s retained earnings and capital health.
+
+#### Section 2: Financial Health Analysis
+
+Based on the extracted metrics, a detailed analysis of Cognizant's financial health yields the following insights:
+
+- **Profitability Ratios**:
+  - **Gross Margin**: 38.55%
+    - This ratio indicates that for every dollar of revenue, 38.55 cents is retained as gross profit, slightly down from the previous year.
+  - **Operating Margin**: 9.83%
+    - This reflects operational efficiency in managing expenses, stabilizing over time.
+  - **Net Margin**: 7.84%
+    - While showing resilience, the decline from last year’s 8.3% signals a need to enhance control over costs.
+  - **EBITDA Margin**: 13.75%
+    - Modest degradation in EBITDA margin also suggests pressures on profitability despite revenue growth.
+
+- **Liquidity Ratios**:
+  - **Current Ratio**: 2.37
+    - This indicates strong liquidity, ensuring that the company can comfortably meet short-term obligations.
+  - **Quick Ratio**: 2.35
+    - Reflects excellent short-term financial health without relying on inventory sales, indicating solid cash flow management.
+
+- **Solvency Ratios**:
+  - **Debt-to-Equity Ratio**: 0.11
+    - This low ratio underscores low leverage and a strong equity position, revealing conservative financial practices.
+  - **Interest Coverage Ratio**: 28.51
+    - Demonstrates the company’s ability to meet interest obligations comfortably, reinforcing solvency.
+
+#### Section 3: Conclusion
+
+Cognizant Technology Solutions Corporation exhibits a robust financial profile characterized by steady revenue growth and substantial gross and operating margins. Even though net income and some profitability ratios have experienced slight declines, the underlying fundamentals remain solid with strong liquidity and low leverage indicated by key ratios.
+
+The company's management of current assets relative to liabilities, alongside its effective control over debt and interest expenses, positions it well for future stability and growth. These insights suggest that while there are areas for optimization in cost management, the overall financial health of Cognizant remains strong and resilient amidst market fluctuations.

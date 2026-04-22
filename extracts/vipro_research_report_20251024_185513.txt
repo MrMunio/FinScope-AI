@@ -1,0 +1,110 @@
+### Company Profile: Wipro Limited
+
+**Overview:**
+Wipro Limited is an Indian multinational technology company headquartered in Bengaluru. Founded on December 29, 1945, as Western India Vegetable Products Limited, it initially manufactured cooking oils and later transitioned into the information technology (IT) services sector in the 1980s. Today, Wipro is recognized as one of India's Big Six IT services companies, providing consulting, business process services, and a range of IT solutions, including cloud computing, artificial intelligence, and digital transformation.
+
+---
+
+**Key Information:**
+
+- **Year Founded:** 1945
+- **Founders:** MH Hasham Premji (original founder); Azim Premji (current prominent shareholder and former chairman).
+- **Headquarters:** Bengaluru, Karnataka, India.
+- **Leadership:**
+  - **CEO:** Srini Pallia (appointed April 6, 2024).
+  - **Chairman:** Rishad Premji.
+- **Revenue & Financial Performance:**
+  - **2025 Q2 revenue:** ₹22,697.30 crore (approx. $2.9 billion), marking a 1.77% YoY increase.
+  - **Deal bookings:** Increased by 90.5% YoY in 2025, emphasizing significant growth in securing large contracts.
+- **Industry:** Information Technology services and consulting.
+- **Offerings:** IT services, consulting, digital transformation, cloud services, AI, robotics, data analytics.
+
+---
+
+**Market Position & Competitive Analysis:**
+Wipro operates in a highly competitive IT services market, facing challenges from both domestic and global players. As of 2025, Wipro's stock reflects stability with measures in place to address competition and technological changes. The company has invested heavily in digital services and cloud solutions, positioning itself strongly against rivals like Infosys and TCS.
+
+**ESG Factors:**
+Wipro is committed to sustainability and corporate responsibility. Key initiatives include:
+- **Climate Action:** Plans to achieve net-zero emissions by 2040.
+- **Social Contributions:** Significant engagement in philanthropic activities through the Azim Premji Foundation, focusing on education and community welfare.
+- **Governance:** Emphasizes transparency and responsible management.
+
+---
+
+**Recent Developments:**
+- **Leadership Changes:** Srini Pallia has taken over as CEO, succeeding Thierry Delaporte, who focused on transforming the company over the past four years.
+- **Financial Growth:** Strong financial results have led to increased deal bookings and revenues. For instance, in Q2 2025, large deal bookings surged, underlying Wipro's growth trajectory.
+- **Acquisitions:** Wipro has been actively acquiring technology companies to bolster its service capabilities, including plans to acquire Harman Connected Services for $375 million.
+
+---
+
+**Innovation & R&D Investments:**
+Wipro has invested significantly in research and development, emphasizing advancements in AI, cloud technologies, and digital transformation Projects. This includes a **$1 billion commitment** to enhance its cloud services capability and the establishment of Wipro Ventures to foster innovation in tech startups.
+
+---
+
+**Challenges & Risks:**
+- **Market Competition:** Wipro faces intense competition which can impact pricing and market share.
+- **Dependency on Large Contracts:** A significant portion of revenue comes from substantial contracts, which can lead to vulnerability in revenue fluctuations.
+- **Tech Evolution:** Rapid technological changes necessitate constant innovation and adaptation.
+
+---
+
+**Future Growth Opportunities:**
+Wipro’s future growth is likely to hinge on its focus on digital transformation, cloud computing, and advancements in AI. The ongoing global shift toward digital services presents a robust opportunity for expansion, especially as businesses seek integration of these technologies for operational efficiency.
+
+---
+
+**Source URLs:**
+- [Wipro – Company Overview](https://en.wikipedia.org/wiki/Wipro)
+- [Wipro Leadership](https://www.wipro.com/leadership/)
+- [Wipro Newsroom](https://www.wipro.com/newsroom/)
+- [Wipro Financial Reports](https://www.wipro.com/investors/annual-reports/) 
+
+This comprehensive profile provides critical insights into Wipro's operations, leadership, financial metrics, and strategic positioning in the IT services industry as of 2025.
+
+
+### Section 2: Financial Health Analysis (Continued)
+
+Based on the calculations from the financial data provided, we obtained the following key financial ratios for TATA Consultancy Services (TCS):
+
+1. **Profitability Ratios**:
+   - **Gross Margin**: 31.57%
+     - This indicates that TCS retains about 31.57 cents for every dollar in revenue after accounting for COGS, showcasing efficient cost management.
+   - **Operating Margin**: 20.57%
+     - This suggests that TCS's operational efficiency and cost control allow it to convert approximately 20.57% of revenues into operating profit.
+   - **Net Margin**: 16.94%
+     - The net margin shows TCS is able to convert roughly 16.94% of total revenues into net income, reflecting strong profitability.
+   - **EBITDA Margin**: 23.5%
+     - This reflects a healthy level of earnings derived from operations before non-cash expenses like depreciation and amortization.
+
+2. **Liquidity Ratios**:
+   - **Current Ratio**: 2.8
+     - A current ratio above 1 indicates that TCS has sufficient current assets to cover its current liabilities, significantly above the acceptable threshold of 1, suggesting strong liquidity.
+   - **Quick Ratio**: 2.77
+     - Similar to the current ratio, it confirms that TCS maintains a strong liquidity position even when excluding inventory from current assets.
+
+3. **Solvency Ratios**:
+   - **Debt-to-Equity Ratio**: 0.12
+     - This low ratio indicates that TCS is conservatively leveraged, relying minimally on debt for financing compared to equity, which is a positive indicator of financial stability.
+   - **Interest Coverage Ratio**: 103.28
+     - This highlights TCS's capability to easily cover its interest expenses with its operating income. It indicates that the company generates substantial income relative to its interest obligations.
+
+### Section 3: Conclusion
+
+In summary, TATA Consultancy Services displays a strong financial position based on the fiscal year 2025 results. The company has consistently grown its revenues and profits, indicating successful strategic initiatives and effective market leadership in IT services. 
+
+- **Profitability**: 
+
+  TCS's profitability metrics show robust operational efficiency with healthy gross, operating, and net margins, showcasing its ability to manage costs while expanding revenue streams.
+
+- **Liquidity**:
+
+  With a high current ratio and quick ratio, it is clear that TCS maintains a strong liquidity position, signaling that it can meet short-term obligations without strain.
+
+- **Solvency**: 
+
+  The low debt-to-equity ratio and exceptionally high interest coverage ratio reflect TCS's prudent financial leverage and strong capacity to service debt, pointing to a well-managed risk profile.
+
+Overall, TCS is positioned favorably for future growth amid an ever-evolving marketplace, particularly in technology services and digital transformation. Its solid balance sheet, consistent cash flows, and strategic focus on fewer debt obligations will bolster performance as it navigates the competitive landscape ahead.

@@ -18,3 +18,9 @@ langgraph-cli[inmem]
 PyMuPDF==1.23.14
 Pillow==10.1.0
 mistralai
+
+
+# for .md to .pdf conversion
+markdown 
+beautifulsoup4 
+reportlab

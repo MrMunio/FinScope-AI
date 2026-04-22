@@ -33,7 +33,6 @@ pip install -r requirements.txt
 ```
 
 
-
 ## 🧑‍💻 Usage
 
 ### 👉 Launch the Web Chatbot
